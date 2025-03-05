@@ -1,0 +1,19 @@
+{
+  "name": "sistem_komplain",
+  "version": "1.0.0",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muslimoo-er/sistem_komplain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muslimoo-er/sistem_komplain/issues"
+  },
+  "homepage": "https://github.com/muslimoo-er/sistem_komplain#readme",
+  "description": ""
+}
